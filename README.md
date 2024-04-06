@@ -1,4 +1,4 @@
-### Hi! I´m a Front-End Developer, my name´s Vanessa Serpa. 😊
+### Hi! I´m a Front-End Web Developer😊
 <p>I have experience with some personal projects that I have been developing throughout my studies.<br/>
   Currently studying Analysis and systems development at University Uniprojeção and FreeCodeCamp, i have been looking for my first job opportunity!</p><br/>
 
