@@ -1,6 +1,6 @@
 ### Hi! I´m a Front-End Developer, my name´s Vanessa Serpa. 😊
 <p>I have experience with some personal projects that I have been developing throughout my studies.<br/>
-  Currently studying Analysis and systems development at University Uniprojeção, i have been looking for my first job opportunity!</p><br/>
+  Currently studying Analysis and systems development at University Uniprojeção and FreeCodeCamp, i have been looking for my first job opportunity!</p><br/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/serpa626/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessaakiba25/)
@@ -9,7 +9,7 @@
 
 
 
-Technologies
+### Technologies i have been using
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,11 +28,11 @@ Technologies
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serpa153&layout=compact)
 
-### About me:
+### About me
 
 I´m 27 years old, from Brazil, I have advanced English. <br/>
 <p>I lived in Japan from 2015 to 2021, I had a great japanese cultural experience.<br/>
   A passionate about technology, programming, love drawing, game, comics and travels.</p>
 
-###Contact
+### Contact
 <p>E-mail: vanessaserpa1534@gmail.com</p>
