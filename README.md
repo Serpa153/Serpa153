@@ -1,6 +1,6 @@
 ### Hi! I´m a Front-End Web Developer and UI/UX student😊
 <p>Currently working on volunteer projects, I have experience with some personal projects that I have been developing throughout my studies.<br/>
-  I have been studying Analysis and systems development at University Uniprojeção and FreeCodeCamp and so on.</p><br/>
+  Systems Analysis and Development Student at Uniprojeção University and FreeCodeCamp and so on.</p><br/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/serpa626/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessaakiba25/)
